@@ -16,3 +16,4 @@ Techniques:
 Rejection sampling: Filtering out suboptimal outputs to refine results.
 Direct Preference Optimization (DPO): Enhancing output quality based on direct preference criteria.
 Illustration: A diagram of the post-training process, highlighting how rejection sampling and DPO are applied.
+![android-chrome-512x512](https://github.com/user-attachments/assets/3a14be0e-50cc-4292-aeee-88ca3668e024)
